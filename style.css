@@ -1,0 +1,14 @@
+.box1 {
+    text-align: center;
+}
+.div1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+.p1 {
+    width: 5%;
+    background-color: black;
+    color: white;
+}
