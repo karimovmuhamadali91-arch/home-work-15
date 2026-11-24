@@ -27,14 +27,12 @@
     background-color: white;
     box-shadow: 0 8px 30px rgba(0, 0, 0, 0.18);
     border-radius: 4px;
-    overflow: hidden;
     margin-bottom: 25px;
 }
 
 .box4 img {
     width: 100%;
     height: 300px;
-    object-fit: cover;
     display: block;
 }
 
@@ -44,7 +42,6 @@
 
 .box5 h1 {
     font-size: 22px;
-    font-weight: bold;
     margin: 0 0 8px;
 }
 
@@ -64,22 +61,18 @@
 
 .box6 h4 {
     font-size: 14px;
-    font-weight: bold;
-    margin: 0;
 }
 
 .box7 {
     background-color: white;
-    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.18);
-    border-radius: 4px;
-    overflow: hidden;
+    box-shadow: 5px 5px 5px;
+    border-radius: 5px;
     margin-bottom: 25px;
 }
 
 .box7 img {
     width: 100%;
     height: 300px;
-    object-fit: cover;
     display: block;
 }
 
@@ -89,7 +82,6 @@
 
 .box8 h1 {
     font-size: 22px;
-    font-weight: bold;
     margin: 0 0 8px;
 }
 
@@ -109,8 +101,6 @@
 
 .box9 h4 {
     font-size: 14px;
-    font-weight: bold;
-    margin: 0;
 }
 
 .box10 {
@@ -119,16 +109,14 @@
 
 .box11 {
     background-color: white;
-    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.18);
+    box-shadow: 5px 5px 5px;
     border-radius: 4px;
-    overflow: hidden;
     margin-bottom: 25px;
 }
 
 .box11 img {
     width: 100%;
     height: 300px;
-    object-fit: cover;
     display: block;
 }
 
@@ -138,49 +126,36 @@
 
 .box12 h3 {
     font-size: 16px;
-    font-weight: bold;
-    margin: 0 0 8px;
 }
 
 .box12 p {
-    margin: 0;
-    line-height: 1.6;
+    line-height: 1.5;
 }
 
 .box13 {
     background-color: white;
-    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.18);
+    box-shadow: 5px 5px 5px;
     border-radius: 4px;
-    overflow: hidden;
     margin-bottom: 25px;
 }
 
 .box14 {
-    background-color: #f1f1f1;
-    padding: 14px 16px;
-    border-bottom: 1px solid #ddd;
+    background-color: rgb(241, 241, 241);
+    padding: 15px 15px;
+    border-bottom: 1px solid rgb(221, 221, 221);
 }
 
 .box15 {
     display: flex;
     align-items: center;
     gap: 10px;
-    padding: 8px 16px;
-    border-bottom: 1px solid #ddd;
+    padding: 8px 15px;
+    border-bottom: 1px solid rgb(221, 221, 221);
 }
 
 .box15 img {
     width: 40px;
     height: 40px;
-    object-fit: cover;
-}
-
-.box15 p {
-    margin: 0;
-}
-
-.box15 small {
-    font-size: 12px;
 }
 
 .box16 {
@@ -188,21 +163,12 @@
     align-items: center;
     gap: 10px;
     padding: 8px 16px;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid rgb(221, 221, 221);
 }
 
 .box16 img {
     width: 40px;
     height: 40px;
-    object-fit: cover;
-}
-
-.box16 p {
-    margin: 0;
-}
-
-.box16 small {
-    font-size: 12px;
 }
 
 .box17 {
@@ -210,69 +176,48 @@
     align-items: center;
     gap: 10px;
     padding: 8px 16px;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid rgb(221, 221, 221);
 }
 
 .box17 img {
     width: 40px;
     height: 40px;
-    object-fit: cover;
-}
-
-.box17 p {
-    margin: 0;
-}
-
-.box17 small {
-    font-size: 12px;
 }
 
 .box18 {
     display: flex;
     align-items: center;
     gap: 10px;
-    padding: 8px 16px;
+    padding: 8px 15px;
 }
 
 .box18 img {
     width: 40px;
     height: 40px;
-    object-fit: cover;
-}
-
-.box18 p {
-    margin: 0;
-}
-
-.box18 small {
-    font-size: 12px;
 }
 
 .box19 {
     background-color: white;
-    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.18);
-    border-radius: 4px;
-    overflow: hidden;
+    box-shadow: 5px 5px 5px;
+    border-radius: 5px;
     margin-bottom: 25px;
 }
 
 .box20 {
-    background-color: #f1f1f1;
+    background-color: rgb(241, 241, 241);
     padding: 14px 16px;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid rgb(221, 221, 221);
 }
 
 .box21 {
     padding: 14px 16px 18px;
     display: flex;
-    flex-wrap: wrap;
-    gap: 6px;
+    gap: 5px;
 }
 
 .box21 span {
-    font-size: 12px;
-    background-color: #eee;
-    border: 1px solid #ddd;
+    background-color: rgb(238, 238, 238);
+    border: 1px solid rgb(221, 221, 221);
     padding: 3px 7px;
 }
 
@@ -282,13 +227,12 @@
 }
 
 .dv1 {
-    line-height: 1.6;
+    line-height: 1.5;
 }
 
 .dv2 {
     border: 1px solid gray;
     padding: 8px 12px;
-    margin: 0;
 }
 
 .dv3 {
