@@ -1,17 +1,20 @@
 .box1 {
     text-align: center;
 }
+
 .div1 {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 5px;
 }
+
 .p1 {
     width: 5%;
     background-color: black;
     color: white;
 }
+
 .box2 {
     padding: 20px;
     display: flex;
@@ -300,4 +303,38 @@
 
 .dv4 {
     border-radius: 50%;
+}
+
+.box22 {
+    background-color: #616161;
+    color: white;
+    padding: 50px 24px;
+}
+
+.box23 {
+    display: flex;
+    gap: 6px;
+    margin-bottom: 40px;
+}
+
+.dv6 {
+    background-color: #424242;
+    color: gray;
+    padding: 20px 35px;
+    font-size: 22px;
+}
+
+.dv7 {
+    background-color: black;
+    color: white;
+    padding: 20px 35px;
+    font-size: 22px;
+}
+
+.dv8 {
+    font-size: 22px;
+}
+
+.dv8 a {
+    color: white;
 }
